@@ -60,13 +60,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello microverse] <a name=></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello microverse]** is an introductory project using html, css and linters
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="html, css and github></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[added linters]**
+- **[added html]**
+- **[added css]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,11 +122,12 @@ After you're finished please remove all the comments and instructions!
 > Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
-
+clone this repo https://github.com/coralnianwi/Hello-World/tree/Hello-Microverse
+working knowledge on html, css and github
 ### Prerequisites
 
 In order to run this project you need:
-
+VS code, github and clone this repository https://github.com/coralnianwi/Hello-World/tree/Hello-Microverse
 <!--
 Example command:
 
@@ -137,7 +138,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder:https://github.com/coralnianwi/Hello-World/tree/Hello-Microverse
 
 <!--
 Example commands:
@@ -205,17 +206,13 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Coralhills**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/coralnianwi)
+- Twitter: [@twitterhandle](https://twitter.com/coral nianwi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/coral nianwi)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
