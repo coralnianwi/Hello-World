@@ -68,7 +68,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="html, css and github></a>
 
-### Tech Stack <a name="tech-stack"></a>
+
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -151,7 +151,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+
 
 <!--
 Example command:
@@ -165,6 +165,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
+Right click on any space in your index.html and open with live server
 
 <!--
 Example command:
@@ -177,7 +178,7 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
-
+right-clicking in the code editor on a test and selecting Run test 
 <!--
 Example command:
 
@@ -189,7 +190,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
-
+click the “Deploy” button in the lower right corner of the Project editor.
 <!--
 Example:
 
@@ -242,7 +243,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="My mentor"></a>
 
 
 
