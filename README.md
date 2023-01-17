@@ -117,7 +117,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started <a name=></a>
 
 > Describe how a new developer could make use of your project.
 
@@ -150,7 +150,7 @@ Example commands:
 --->
 
 ### Install
-
+Install this project with: Visual studio code
 
 
 <!--
@@ -203,13 +203,13 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="Coral"></a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Coralhills**
 
-- GitHub: [@githubhandle](https://github.com/coralnianwi)
+- GitHub: [@githubhandle](https://github.com/coral nianwi)
 - Twitter: [@twitterhandle](https://twitter.com/coral nianwi)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/coral nianwi)
 
@@ -227,9 +227,9 @@ Example:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+
+ issues, requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
@@ -243,8 +243,8 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="My mentor"></a>
-
+## 🙏 Acknowledgments <a name="CORAL"></a>
+I would like to thank my coding partners
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
